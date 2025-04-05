@@ -1,0 +1,3 @@
+deployment:
+branch:main
+deployment_mode:git
